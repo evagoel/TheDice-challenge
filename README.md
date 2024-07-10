@@ -6,7 +6,7 @@ The website simulates a dice game challenge where on every refresh both dice are
 
 ## Instructions
 
- There is two dice on the page
- Just reload the page
- After every reload dice will change
- Which dice have the more point will win the challenge
+ -- There is two dice on the page
+ -- Just reload the page
+ -- After every reload dice will change
+ -- Which dice have the more point will win the challenge
